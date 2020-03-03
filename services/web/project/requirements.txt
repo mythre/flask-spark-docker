@@ -1,5 +1,10 @@
+werkzeug<1.0
 Flask==0.12.2
 Flask-Script==2.0.6
 Flask-WTF==0.14.2
 redis==2.10.6
 rq==0.10.0
+pandas==1.0.1
+requests==2.23.0
+tabulate
+
