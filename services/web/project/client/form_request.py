@@ -5,7 +5,7 @@ if __name__ == "__main__":
     headers = {}
     headers['Accept'] = 'application/json'
     params = {}
-    base_url = 'http://192.168.56.103:5009/'
+    base_url = 'http://localhost:5009/'
 
     print("Available functions: 1.getItemsbyColor 2.getBrandsCount 3.getRecentItems",
           "Enter the name of function: ")
